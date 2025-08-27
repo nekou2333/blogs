@@ -1,10 +1,10 @@
 ---
 title: 「翻译」The Second Half
-published: 2025-08-27
+published: 2025-08-19
 description: ''
 image: ''
 tags: [LLM, 翻译]
-category: LLM
+category: 翻译
 draft: false 
 lang: ''
 ---

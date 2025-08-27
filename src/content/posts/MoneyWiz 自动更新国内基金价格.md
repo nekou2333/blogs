@@ -1,10 +1,10 @@
 ---
 title: MoneyWiz 自动更新国内基金价格
-published: 2025-08-27
+published: 2024-11-02
 description: ''
 image: ''
 tags: [MoneyWiz, Beancount, 记账]
-category: '记账'
+category: '理财'
 draft: false 
 lang: ''
 ---
